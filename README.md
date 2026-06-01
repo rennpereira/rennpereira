@@ -45,6 +45,6 @@ No filters. Public. Real evolution.
 💼 **LinkedIn:** [linkedin.com/in/rennpereira](https://linkedin.com/in/rennpereira)  
 🎮 **RPG or tech talk? Hit me up.**
 
-*Let's see where this goes. I think we can do this.*
+*Probably fixing a bug while humming an 80s rock song. Let's see where this goes.*
 
 – Renn
