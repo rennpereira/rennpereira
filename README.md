@@ -1,4 +1,4 @@
-## 🔗 Hey there, I'm Renn
+## Hey there, I'm Renn
 
 *"Probably breaking something right now. Or rolling dice."*
 
@@ -6,14 +6,14 @@ Linux enthusiast | Offensive security in progress | 80s rock on repeat
 
 ---
 
-### 🔗 What I'm up to
+### What I'm up to
 
 * Breaking things legally on Kali Linux
 * Automating the boring stuff with Python and bash
 * Documenting everything – fails, fixes, and bad puns – in my `journal`
 * Leveling up: eJPT -> OSCP (milestones, not finish lines)
 
-### 🔗 When I'm not in front of a terminal
+### When I'm not in front of a terminal
 
 * 🏃‍♂️ Running or lifting – moving keeps the mind sharp
 * 🐧 Gaming on Linux – yes, it works. No, I won't switch.
@@ -21,7 +21,7 @@ Linux enthusiast | Offensive security in progress | 80s rock on repeat
 * 🎸 80s rock – volume up, `sudo` optional
 * 🧘‍♂️ Mindfulness – because calm hands type better commands
 
-### 🔗 Current lab & studies
+### Current lab & studies
 
 * Anhanguera – Cybersecurity Technologist
 * Cisco Networking Academy – networking fundamentals
@@ -30,7 +30,7 @@ Linux enthusiast | Offensive security in progress | 80s rock on repeat
 * Google AI Essentials – prompt engineering with purpose
 * Home lab: Kali, Nmap, Wireshark, Hydra, Burp Suite
 
-### 🔗 Why this journal exists
+### Why this journal exists
 
 Good pentesters think like engineers before they think like attackers.
 I'm building both – one commit, one broken exploit, one fixed script at a time.
